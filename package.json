@@ -1,0 +1,19 @@
+{
+  "name": "fullstackopen_part3",
+  "version": "1.0.0",
+  "description": "Part3 Exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "No test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vardagsbruket/fullstackopen_part3.git"
+  },
+  "author": "Diana Undén",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vardagsbruket/fullstackopen_part3/issues"
+  },
+  "homepage": "https://github.com/Vardagsbruket/fullstackopen_part3#readme"
+}
