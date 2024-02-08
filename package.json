@@ -4,7 +4,9 @@
   "description": "Part3 Exercises",
   "main": "index.js",
   "scripts": {
-    "test": "No test"
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/Vardagsbruket/fullstackopen_part3/issues"
   },
-  "homepage": "https://github.com/Vardagsbruket/fullstackopen_part3#readme"
+  "homepage": "https://github.com/Vardagsbruket/fullstackopen_part3#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
 }
